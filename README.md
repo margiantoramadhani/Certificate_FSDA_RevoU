@@ -2,7 +2,7 @@
 
 ----
 
-#### Intro to Data Analytics by RevoU
+#### Introduction of Data Analytics by RevoU
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -12,3 +12,12 @@
 </details>
 
 ----
+
+#### Full Stack Data Analytics (FSDA) by RevoU
+
+<details>
+<summary markdown="span">Certificate</summary>
+
+![image](https://github.com/margiantoramadhani/Certificate_FSDA_RevoU/assets/112692717/0306c915-2f25-4d3b-a6ba-bd069cdb24ed)
+
+</details>
