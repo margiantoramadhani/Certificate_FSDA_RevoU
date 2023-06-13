@@ -1,8 +1,8 @@
-### Mini Course of Data Analytics by RevoU
+### Boot Camp Data Analytics by RevoU
 
 ----
 
-#### Introduction of Data Analytics by RevoU
+#### Mini Course - Introduction of Data Analytics
 
 <details>
 <summary markdown="span">Certificate</summary>
@@ -14,6 +14,15 @@
 ----
 
 #### Full Stack Data Analytics (FSDA) by RevoU
+
+Enrolled as a student in RevoU with grade 98.55/100</br>
+Lecture Modules:</br>
+- Understanding Business Problems (DARCI, Problem Statement, Objective, Hypothesis, Metrics)</br>
+- Spreadsheet (Data Cleaning, EDA, hypothesis testing, correlation, Regression)</br>
+- SQL using BigQuery (Intermediate-Advanced)</br>
+- Python using Google Colab (Intermediate-Advanced)</br>
+- Data Visualization using Looker and Tableau </br>
+- Data Communication or Story Telling
 
 <details>
 <summary markdown="span">Certificate</summary>
